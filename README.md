@@ -53,6 +53,8 @@ nopf-core> ./run.bat brun --localport=3010 --serveraddr=123.123.234.456:12345 --
 Started pipe between localhost:3010 - 111.111.111.111:40737 (it shows when you connect to localhost:3010)
 ```
 
+See also: https://github.com/smiilliin/nopf-server
+
 ## Development
 
 you should install cmake, g++(mingw64), mingw-std-threads, windivert in windows
